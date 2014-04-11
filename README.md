@@ -1,2 +1,0 @@
-churchfinder-mock-frontend
-==========================
